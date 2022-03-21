@@ -3,6 +3,7 @@
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **4** hours spent in total
+
 note for next time: get gif id from links for twitter/reddit/etc from imgur and put in https://i.imgur.com/<HERE>.gif
 
 ## User Stories
